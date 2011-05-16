@@ -32,6 +32,7 @@
 .actionScriptProperties 
 .flexLibProperties
 .project
+.settings
 
 # OS generated files #
 ######################
