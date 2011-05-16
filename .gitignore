@@ -29,10 +29,10 @@
 
 # Flash Builder #
 #################
-.actionScriptProperties 
 .flexLibProperties
 .project
 .settings
+.actionScriptProperties
 
 # OS generated files #
 ######################
