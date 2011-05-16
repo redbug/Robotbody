@@ -1,0 +1,31 @@
+<table>
+    <shortcut>
+        <key>F3</key>
+        <func>show/hide performance panel</func>
+    </shortcut>
+    
+    <shortcut>
+        <key>N</key>
+        <func>switch to scene B</func>
+    </shortcut>
+    
+    <shortcut>
+        <key>X</key>
+        <func>stop music</func>
+    </shortcut>
+    
+    <shortcut>
+        <key>Y</key>
+        <func>play/resume music</func>
+    </shortcut>
+    
+    <shortcut>
+        <key>Arrow Up</key>
+        <func>increase volume</func>
+    </shortcut>
+    
+    <shortcut>
+        <key>Arrow Down</key>
+        <func>decrease volume</func>
+    </shortcut>                 
+</table>

@@ -1,0 +1,5 @@
+Preloader: asset/swf/preloader_B.swf
+Symbol: asset/swf/swf_B.swf
+Music: asset/music/music_B.mp3
+Shortcuts: asset/xml/shortcut_B.xml
+Info: asset/txt/text_B.txt
