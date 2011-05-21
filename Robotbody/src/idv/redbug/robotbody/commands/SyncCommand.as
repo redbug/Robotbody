@@ -30,6 +30,11 @@ package idv.redbug.robotbody.commands
 				command.start();
 			}
 		}
+        
+        public function addSubCommand( cmd:SimpleCommand ):void
+        {
+            _commands.push( cmd );
+        }
 		
 		private function oneCommandComplete():void
 		{

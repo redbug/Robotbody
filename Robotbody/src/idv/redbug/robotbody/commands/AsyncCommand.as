@@ -1,5 +1,7 @@
 package idv.redbug.robotbody.commands
 {
+    import flash.display.SimpleButton;
+
 	public class AsyncCommand extends SimpleCommand
 	{
 		private var _commands				:Vector.<SimpleCommand>;
@@ -28,6 +30,11 @@ package idv.redbug.robotbody.commands
 			launchNextCommand();
 		}
 		
+        public function addSubCommand( cmd:SimpleCommand ):void
+        {
+            _commands.push( cmd );
+        }
+        
 		private function oneCommandComplete():void
 		{
 			_numCommandCompleted++;
